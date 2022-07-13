@@ -87,3 +87,9 @@ main {
 #tribute-link {
   color: steelblue;
 }
+
+@media (max-width: 1200px) {
+  #tribute-info {
+    width: 80%;
+  }
+}
