@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Page screenshot](./assets/tribute-page-main-image.jpg)
+![Page screenshot](./assets/screenshot.png)
 
 
 ### Links
