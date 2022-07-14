@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repository on GitHub](https://github.com/AlexdelCarmen/fcc-tribute-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://alexdelcarmen.github.io/fcc-tribute-page/)
 
 ## My process
 
